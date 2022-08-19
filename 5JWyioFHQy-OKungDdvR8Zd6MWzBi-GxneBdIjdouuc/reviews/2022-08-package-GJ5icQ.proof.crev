@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-08-20T01:18:12.803465952+09:00
+from:
+  id-type: crev
+  id: 5JWyioFHQy-OKungDdvR8Zd6MWzBi-GxneBdIjdouuc
+package:
+  source: https://crates.io
+  name: matches
+  version: 0.1.9
+  digest: aUbHmq2YcwV8i6N5M6OkDevL80TDshhfZjNWjurpOXc
+review:
+  thoroughness: low
+  understanding: high
+  rating: positive
+comment: |-
+  This crate contains a few macro that checks whether expression matches given pattern. No malcious or vunerable codes are found in this crate.
+----- SIGN CREV PROOF -----
+3lDoleLKZ6JFcWguH1_YKE2Tg3G6vBRbnvKC8xZtt0Rgvi39u8rqo2LlCRHW4Kx7Ggy3WyViPnH6JyfgDgplBw
+----- END CREV PROOF -----
+
